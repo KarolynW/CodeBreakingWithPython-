@@ -1,46 +1,90 @@
-# Code Breaking with Python
 
-### Digital Skills Week - University of Hertfordshire  
-**Karolyn Webb and Kevin O'Connor**
+# **Code Breaking with Python**  
 
----
-
-## Welcome
-
-Welcome to this session on basic Python and utilising Python to break codes!
-
-### Session Aims
-
-- Describe what Python is
-- Create a short "Hello World" program in Google Colab
-- Use Python libraries to crack a code
-- Find the solution to the puzzle!
+### *Digital Skills Week - University of Hertfordshire*  
+**Karolyn Webb and Kevin O'Connor**  
 
 ---
 
-## What is Python?
+## **Welcome!**  
 
-Python was first developed in the 1980s by Guido van Rossum. It is a popular general-purpose programming language used for a wide variety of applications. Python includes high-level data structures, dynamic typing, dynamic binding, and many other features that make it useful for both complex application development and scripting or "glue code" that connects components together. Additionally, Python can be extended to make system calls to almost all operating systems and to run code written in C or C++.
-
-Due to its ubiquity and ability to run on nearly every system architecture, Python is a universal language found in a variety of different applications. It is one of the simplest yet most powerful programming languages in the world. Today, we will take your first steps in creating your first programs!
+Welcome to this interactive session where we'll explore the basics of Python programming and leverage its powerful libraries to break codes!  
 
 ---
 
-## What is Google Colaboratory?
+## **Session Aims**  
 
-**Google Colaboratory (Colab)** allows you to write and execute Python in your browser, with:
+By the end of this session, you will be able to:  
 
-- Zero configuration required
-- Free access to GPUs
-- Easy sharing
+- Explain what Python is and why it is widely used.  
+- Write and run a simple "Hello World" program in Google Colab.  
+- Utilise Python libraries to decrypt coded messages.  
+- Solve puzzles by applying programming and cryptographic techniques.  
+
+Let’s dive into the exciting world of Python and cryptography!  
 
 ---
 
-## What is Cryptography?
+## **What is Python?**  
 
-Cryptography is the study of secure communications techniques that allow only the sender and intended recipient of a message to view its contents. The term is derived from the Greek word *kryptos*, meaning hidden. Cryptography is closely associated with encryption, which involves scrambling ordinary text into ciphertext and then converting it back upon receipt.
+Python is a high-level, general-purpose programming language created by **Guido van Rossum** in the late 1980s and officially released in 1991. It is widely recognised for its simplicity, readability, and versatility, making it one of the most popular programming languages today.  
 
-In addition to encryption, cryptography also covers the obfuscation of information in images using techniques such as microdots or merging. Ancient Egyptians used these methods in complex hieroglyphics, and Roman Emperor Julius Caesar is credited with using one of the first modern ciphers.
+### **Key Features of Python**  
 
-Cryptography has gained increased interest due to the rise of cryptocurrencies and is a field of great significance today.
+- **Beginner-Friendly** – Python’s clean and intuitive syntax allows beginners to learn programming quickly.  
+- **Extensive Libraries** – Python includes built-in libraries for a variety of tasks, including data analysis, machine learning, and cryptography.  
+- **Cross-Platform** – Python runs on nearly every operating system, from Windows and macOS to Linux and even mobile platforms.  
+- **Integration Capabilities** – It supports integration with other programming languages like C, C++, and Java.  
+- **Community Support** – With a vast global community, Python offers plenty of resources, tutorials, and open-source tools.  
+
+Today, we’ll take your first steps in Python programming and use its libraries to tackle code-breaking challenges!  
+
+---
+
+## **What is Google Colaboratory (Colab)?**  
+
+**Google Colaboratory**, commonly known as **Colab**, is a free cloud-based platform that allows you to write and execute Python code directly in your browser. It is particularly useful for data science, machine learning, and programming tutorials.  
+
+### **Why Use Google Colab?**  
+
+- **No Installation Required** – Start coding immediately without the need to install Python or set up an environment.  
+- **Free Access to GPUs and TPUs** – Ideal for computationally intensive tasks.  
+- **Collaboration Made Easy** – Share notebooks effortlessly, enabling real-time teamwork.  
+- **Integrated Libraries** – Pre-installed libraries save time and simplify workflows.  
+
+We’ll be using Google Colab to write and test our Python code throughout this session.  
+
+---
+
+## **What is Cryptography?**  
+
+Cryptography is the art and science of securing communication by transforming data into a format that is unintelligible to anyone except the intended recipient. It has been used for thousands of years to protect sensitive information.  
+
+### **Origins of Cryptography**  
+
+- The word *cryptography* comes from the Greek word *kryptos*, meaning *hidden*.  
+- Ancient Egyptians used intricate hieroglyphics to conceal messages.  
+- Julius Caesar developed one of the earliest known ciphers (the **Caesar Cipher**) to encode military messages.  
+
+### **Modern Applications**  
+
+Today, cryptography is at the heart of secure communications, online banking, and digital transactions. With the rise of cryptocurrencies, it has become even more crucial in securing digital assets and identities.  
+
+### **Key Concepts in Cryptography**  
+
+1. **Encryption** – Converting plaintext (readable data) into ciphertext (scrambled data).  
+2. **Decryption** – Reversing ciphertext back into plaintext.  
+3. **Ciphers** – Algorithms used to encrypt and decrypt messages.  
+4. **Keys** – Values used to encrypt and decrypt data, ensuring only authorised users can access the information.  
+
+---
+
+## **What’s Next?**  
+
+We’ll start by introducing Python basics, and then move on to using Python libraries to break simple ciphers.  
+By the end of the session, you’ll put your new skills to the test and solve a code-breaking puzzle.  
+
+Are you ready to unlock the secrets hidden in encrypted messages? Let’s get started!  
+
+---
 
